@@ -3,4 +3,4 @@ python-dotenv
 langchain
 langchain-google-genai
 langchain-core
-langchain-community
+langchain-community=0.2.16
