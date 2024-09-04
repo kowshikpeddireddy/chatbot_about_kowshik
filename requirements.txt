@@ -4,4 +4,6 @@ langchain
 langchain-google-genai
 langchain-core
 chromadb
-langchain-community==0.2.16
+chroma-hnswlib
+langchain_chroma
+
