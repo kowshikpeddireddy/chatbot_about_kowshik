@@ -3,8 +3,8 @@ python-dotenv
 langchain
 langchain-google-genai
 langchain-core
-chromadb
-chroma-hnswlib
+chromadb==0.3.29
+
 langchain_chroma
 pysqlite3-binary
 
