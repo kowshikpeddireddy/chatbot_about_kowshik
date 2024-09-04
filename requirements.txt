@@ -3,7 +3,7 @@ python-dotenv
 langchain
 langchain-google-genai
 langchain-core
-chromadb==0.3.29
+chromadb
 langchain_community
 pysqlite3-binary
 
