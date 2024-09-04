@@ -6,4 +6,5 @@ langchain-core
 chromadb
 chroma-hnswlib
 langchain_chroma
+pysqlite3-binary
 
